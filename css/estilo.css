@@ -192,4 +192,42 @@ legend {
 	display: none;
 }
 
+input.caixas {
+	margin: 0 auto;
+	display: block;
+	height: 20px;
+	width: 350px;
+	background: #ada484;
+	border: none;
+	font-size: 1em;
+
+
+}
+
+section#contato {
+	background: #FFFF;
+	text-align: center;
+	
+}
+
+section#contato textarea{
+	margin: 0 auto;
+	display: block;
+	height: 300px;
+	width: 350px;
+	background: #ada484;
+	border: none;
+	font-size: 1em;
+}
+
+#submit {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background: #9b9271;
+	color: white;
+	width: 350px;
+	height: 70px;
+	border: 2px outset #ada484;
+	font-size: 1.2em;
+}
 
